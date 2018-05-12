@@ -1,0 +1,24 @@
+_repo: Friendship-Club-Cook-Book_42631
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Friendship Club (Madison, Wisconsin)
+    gutenberg_agent_id: '41788'
+    url: http://www.gutenberg.org/2009/agents/41788
+description: ''
+gutenberg_issued: '2013-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: Friendship Club Cook Book
+url: http://www.gutenberg.org/ebooks/42631
